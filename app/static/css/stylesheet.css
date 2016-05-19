@@ -6,6 +6,9 @@ body {
     /*background: rgb(240,28,235);*/
     background: #ffcf79;
     font-size: 25px;
+    /*border-color: aquamarine;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
 }
 
 h1 {
@@ -39,4 +42,30 @@ p.para3 {
     font-size: 15px;
     /*font-style: italic;*/
     line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding: 20px;
+    border: black 2px solid;
+}
+
+p.para4 {
+    color: black;
+    font-size: 15px;
+    /*font-style: italic;*/
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding: 20px;
+
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    padding-left: 30px;
+}
+
+.imagec {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: black;
 }
